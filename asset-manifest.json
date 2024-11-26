@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3db4f4d5.css",
-    "main.js": "/portfolio/static/js/main.73949b5d.js",
-    "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
-    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/fitness.png": "/portfolio/static/media/fitness.441d85a2c80fb676edf7.png",
-    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/sql.png": "/portfolio/static/media/sql.ad79fd06f88c76f78bc5.png",
-    "static/media/uiux.png": "/portfolio/static/media/uiux.59a684518f01698d2f43.png",
-    "static/media/ga.png": "/portfolio/static/media/ga.e03d0fb33f3991d7643d.png",
-    "static/media/ap.png": "/portfolio/static/media/ap.329e8e443fd34dfa5288.png",
-    "static/media/P.png": "/portfolio/static/media/P.cb0a15af706a69fff753.png",
-    "static/media/Airtribe.jpg": "/portfolio/static/media/Airtribe.360a44ffe2cb3ac07622.jpg",
-    "static/media/ytm.png": "/portfolio/static/media/ytm.adc4c3df91a3a7355736.png",
-    "static/media/zepto.png": "/portfolio/static/media/zepto.fd4e15cb8ccb9deeeaae.png",
-    "static/media/yt.png": "/portfolio/static/media/yt.d0b2a7085d21c0633998.png",
-    "static/media/nidhi.jpg": "/portfolio/static/media/nidhi.90e64bef2ac0ac6b22bc.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.3db4f4d5.css.map": "/portfolio/static/css/main.3db4f4d5.css.map",
-    "main.73949b5d.js.map": "/portfolio/static/js/main.73949b5d.js.map",
-    "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.16fddb7e.css",
+    "main.js": "/my-portfolio/static/js/main.b8e26227.js",
+    "static/js/453.b05d8aa5.chunk.js": "/my-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/my-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/fitness.png": "/my-portfolio/static/media/fitness.441d85a2c80fb676edf7.png",
+    "static/media/bg-dark.png": "/my-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/sql.png": "/my-portfolio/static/media/sql.ad79fd06f88c76f78bc5.png",
+    "static/media/uiux.png": "/my-portfolio/static/media/uiux.59a684518f01698d2f43.png",
+    "static/media/ga.png": "/my-portfolio/static/media/ga.e03d0fb33f3991d7643d.png",
+    "static/media/ap.png": "/my-portfolio/static/media/ap.329e8e443fd34dfa5288.png",
+    "static/media/P.png": "/my-portfolio/static/media/P.cb0a15af706a69fff753.png",
+    "static/media/Airtribe.jpg": "/my-portfolio/static/media/Airtribe.360a44ffe2cb3ac07622.jpg",
+    "static/media/ytm.png": "/my-portfolio/static/media/ytm.adc4c3df91a3a7355736.png",
+    "static/media/zepto.png": "/my-portfolio/static/media/zepto.fd4e15cb8ccb9deeeaae.png",
+    "static/media/yt.png": "/my-portfolio/static/media/yt.d0b2a7085d21c0633998.png",
+    "static/media/nidhi.jpg": "/my-portfolio/static/media/nidhi.90e64bef2ac0ac6b22bc.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.16fddb7e.css.map": "/my-portfolio/static/css/main.16fddb7e.css.map",
+    "main.b8e26227.js.map": "/my-portfolio/static/js/main.b8e26227.js.map",
+    "453.b05d8aa5.chunk.js.map": "/my-portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3db4f4d5.css",
-    "static/js/main.73949b5d.js"
+    "static/css/main.16fddb7e.css",
+    "static/js/main.b8e26227.js"
   ]
 }
