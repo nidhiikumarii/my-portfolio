@@ -4,6 +4,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
 import nidhi from '../assets/images/nidhi.jpg';
 
+
 function Main() {
 
   return (
@@ -18,7 +19,12 @@ function Main() {
             <a href="https://www.linkedin.com/in/nidhi-kumari-805658193/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Nidhi Kumari</h1>
+          
           <p>Product Manager</p>
+          <div className="button"> 
+          <a href={require("../assets/images/Resume.pdf")} download="myFile">Download CV</a></div>
+
+
 
           <div className="mobile_social_icons">
             <a href="https://github.com/nidhiikumarii" target="_blank" rel="noreferrer"><GitHubIcon/></a>
