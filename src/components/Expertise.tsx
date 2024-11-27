@@ -1,7 +1,7 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faProductHunt, faPython, faFigma } from '@fortawesome/free-brands-svg-icons';
+import { faProductHunt, faFigma } from '@fortawesome/free-brands-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 import { faChartSimple } from "@fortawesome/free-solid-svg-icons";
@@ -43,6 +43,15 @@ function Expertise() {
     return (
     <div className="container" id="expertise">
         <div className="skills-container">
+            
+            <div className="about-me">
+            <h1>About Me</h1><p>Result-driven aspiring Product Manager with over 5 years of diverse experience in Lead
+Generation, Market Research, and Business Development. Proven track record of delivering
+successful marketing campaigns, driving brand recognition and achieving business objectives.
+Skilled in strategic thinking abilities, team leadership, customer retention, data driven decision
+and align product strategies with business goals. Spearheaded a comprehensive market analysis
+campaign that identified key customer segments, resulting in a 30% increase in lead generation and
+enhancing targeted outreach strategies for business development initiatives.</p></div>
             <h1>Expertise</h1>
             <div className="skills-grid">
                 <div className="skill">
@@ -62,7 +71,7 @@ function Expertise() {
                     <h3>UI UX Design</h3>
                     <p>Proficient in user research, design thinking, and customer journey mapping, with a keen focus on identifying and addressing user pain points to enhance overall engagement. Experienced in translating user insights into actionable product strategies, optimizing user flows, and ensuring intuitive, seamless experiences. Adept at leveraging research-driven decisions to create impactful, user-centric designs that drive product success and elevate user satisfaction.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
+                        <span className="chip-title">Skills:</span>
                         {labelsSecond.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -72,7 +81,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faChartSimple} size="3x"/>
                     <h3>Data Analytics</h3>
-                    <p>As a Project Manager, I excel in leading cross-functional teams to deliver projects on time and within budget. With expertise in creating detailed project plans, managing risks, and adapting to changes using Agile methodologies, I ensure continuous value delivery. My strong communication skills enable effective stakeholder management and collaboration. I am proficient in tracking progress, resolving issues, and optimizing resources to achieve project goals and drive successful business outcomes.</p>
+                    <p>As a Product Manager, I excel in leading cross-functional teams to deliver projects on time and within budget. With expertise in creating detailed project plans, managing risks, and adapting to changes using Agile methodologies, I ensure continuous value delivery. My strong communication skills enable effective stakeholder management and collaboration. I am proficient in tracking progress, resolving issues, and optimizing resources to achieve project goals and drive successful business outcomes.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
